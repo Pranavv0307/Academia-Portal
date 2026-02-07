@@ -1,0 +1,6 @@
+*.o
+a.out
+academia_server
+academia_client
+*.dat
+Report*
